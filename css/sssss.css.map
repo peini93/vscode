@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAQA,AAAA,IAAI,CAAC,IAAI,AAAC,CACR,OAAO,CAAE,CAAC,CACV,MAAM,CAAE,CAAC,CACT,KAAK,CAAE,MAAM,CAAG",
+    "sources": [
+        "../sass/sssss.sass",
+        "../sass/_myMixin.sass"
+    ],
+    "names": [],
+    "file": "sssss.css"
+}
